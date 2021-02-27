@@ -80,13 +80,13 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png" alt="devicon" height="30" width="100" />
+		<img align="center" src="imgs/spring.svg" alt="devicon" height="30" width="30" />
+		<img align="center" src="imgs/centos.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" alt="devicon" height="30" width="60" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="devicon" height="30" width="50" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="devicon" height="30" width="30" />
+		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="devicon" height="30" width="60" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="devicon" height="30" width="30" />
 </p>
 
