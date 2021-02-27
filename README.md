@@ -43,52 +43,57 @@
 If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/search?q=9D26FDA9E051205C4DC8422611D306C40EAEC301">public key</a>
 </p>
 
+<style>
+	.devicon {
+		background-color: #8c8c8c;
+	}
+</style>
+
 <h3 align="left">Technologies I know:</h3>
 <p align="center">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" alt="devicon" height="20" width="20" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="devicon" height="20" width="60" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="20" width="20" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/245px-Spring_Framework_Logo_2018.svg.png" alt="devicon" height="20" width="60" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Centos-logo-light.svg" alt="devicon" height="20" width="60" />
+		<img class="devicon" align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="20" width="20" />
 </p>
 
 
