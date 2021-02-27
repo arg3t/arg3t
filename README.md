@@ -1,6 +1,9 @@
-<img align="left" src="imgs/hello_there.gif">
-- **whoami** : A high school student in turkey who loves programming
-- **uptime** : 17 years
+<div>
+  <img align="left" src="imgs/hello_there.gif">
+  <ul>
+    <li> <strong>whoami: </strong> A high school student who loves programming </li>
+  </ul>
+</div>
 <!-- Coding Stats -->
 
 <!--START_SECTION:waka-->
