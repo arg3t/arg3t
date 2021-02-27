@@ -8,13 +8,13 @@
 
 - `whoami`  A senior high school student in Turkey.
 
-- 🌱 I’m currently learning **Deno and a lot of other things.**
+- `uptime`  17 years  
 
-- 📝 I regularly write articles on [https://medium.com/@andylauszp](https://medium.com/@andylauszp)
+- `ps -a`   Learning C++ and Spring Boot
 
-- 💬 Ask me about **anything related to C#.**
+- `uname -n`   I try to blog on [hashnode](https://blog.yigitcolakoglu.com) regularly
 
-- 📫 How to reach me **andylauszp@gmail.com**
+- `neofetch`   Arch Linux, Vim and Suckless Utilities
 
 
 
