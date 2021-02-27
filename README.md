@@ -53,4 +53,7 @@ If you prefer encrytped e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <h3 align="left">Weekly Coding Stats:</h3>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
