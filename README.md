@@ -1,6 +1,6 @@
 <div>
   <img align="left" src="imgs/hello_there.gif">
-  <ul>
+  <ul style="margin-top: 2px">
     <li> <strong>whoami: </strong> A high school student who loves programming </li>
   </ul>
 </div>
