@@ -40,17 +40,19 @@
 	</a>
 </p>
 <p align="center">
-If you prefer encrytped e-mails, I have a <a href="https://keys.openpgp.org/search?q=9D26FDA9E051205C4DC8422611D306C40EAEC301">public key</a>
+If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/search?q=9D26FDA9E051205C4DC8422611D306C40EAEC301">public key</a>
 </p>
 
 <h3 align="left">Technologies I know:</h3>
 
 
 <h3 align="left">Spotify listening now:</h3>
+[<img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/ygtclk1)
 
 <h3 align="left">My GitHub Stats:</h3>
 <img  src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
 <h3 align="left">Weekly Coding Stats:</h3>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
