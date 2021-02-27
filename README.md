@@ -4,9 +4,9 @@
 
 <p align="center"><img src="imgs/hello_there.gif"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- 🔭 I’m currently working on **ASP.NET** at work and some libraries when I'm free.
+- `whoami`  A senior high school student in Turkey.
 
 - 🌱 I’m currently learning **Deno and a lot of other things.**
 
