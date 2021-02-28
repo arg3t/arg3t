@@ -101,6 +101,10 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   2 hrs 43 mins   ██████████████████████▓░░   90.04 % 
+YAML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Python     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+HTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Java       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 <!--END_SECTION:waka-->
