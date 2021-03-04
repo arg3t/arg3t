@@ -92,7 +92,10 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 
 <h3 align="left">Spotify listening now:</h3>
-<a href="https://open.spotify.com/user/ygtclk1"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" /></a>
+<a href="https://open.spotify.com/user/ygtclk1"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>
+
+<h3 align="left">I am currently reading:</h3>
+<a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
 
 <h3 align="left">My GitHub Stats:</h3>
 <img  src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF">
