@@ -104,10 +104,10 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <!--START_SECTION:waka-->
 ```text
-Other    5 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.71 % 
-Bash     4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.60 % 
-TeX      2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-C++      1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Python   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Bash    6 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.72 % 
+Other   6 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+C++     2 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+TeX     2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Vala    2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 <!--END_SECTION:waka-->
