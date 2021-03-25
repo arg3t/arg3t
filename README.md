@@ -38,6 +38,9 @@
 	<a href="https://www.linkedin.com/in/yigitcolakoglu/" target="blank">
 		<img align="center" src="imgs/contact/linkedin.svg" alt="linkedin" height="40" width="40" />
 	</a>
+	<a href="https://git.yigitcolakoglu.com/yigitcolakoglu/" target="blank">
+		<img align="center" src="imgs/contact/gitea.png" alt="gitea" height="40" width="40" />
+	</a>
 </p>
 <p align="center">
 If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/search?q=9D26FDA9E051205C4DC8422611D306C40EAEC301">public key</a>
@@ -101,7 +104,7 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theFr1nge&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="theFr1nge"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
 </p>
 
 <h3 align="left">Weekly Coding Stats:</h3>
