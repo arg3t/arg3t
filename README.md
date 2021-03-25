@@ -18,13 +18,6 @@
 
 - `neofetch`   Arch Linux, Vim and Suckless Utilities
 
-
-
-![test](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =2x2)
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 	<a href="https://twitter.com/theFr1nge" target="blank">
