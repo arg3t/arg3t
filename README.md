@@ -98,7 +98,11 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
 
 <h3 align="left">My GitHub Stats:</h3>
-<img  src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=html" alt="theFr1nge"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+</p>
 
 <h3 align="left">Weekly Coding Stats:</h3>
 
