@@ -4,6 +4,8 @@
 
 <p align="center"><img src="imgs/hello_there.gif"></p>
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | =2x2)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
 - `whoami`  A senior high school student in Turkey.
@@ -111,3 +113,5 @@ YAML               1 hr 14 mins    ██░░░░░░░░░░░░░
 C++                1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 <!--END_SECTION:waka-->
+
+
