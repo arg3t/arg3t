@@ -4,8 +4,6 @@
 
 <p align="center"><img src="imgs/hello_there.gif"></p>
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | =2x2)
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
 - `whoami`  A senior high school student in Turkey.
@@ -19,6 +17,13 @@
 - `uname -n`   I try to blog on [hashnode](https://blog.yigitcolakoglu.com) regularly
 
 - `neofetch`   Arch Linux, Vim and Suckless Utilities
+
+
+
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | =2x2)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
