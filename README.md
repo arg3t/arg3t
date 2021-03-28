@@ -93,9 +93,10 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="devicon" height="30" width="30" />
 </p>
 
-
+<!---
 <h3 align="left">Spotify listening now:</h3>
 <a href="https://open.spotify.com/user/ygtclk1"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>
+--->
 
 <h3 align="left">I am currently reading:</h3>
 <a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
