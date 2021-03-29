@@ -112,11 +112,11 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <!--START_SECTION:waka-->
 ```text
-Other    16 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.98 % 
-Bash     5 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-C++      5 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-C        3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Python   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Other      14 hrs 39 mins  ██████████▓░░░░░░░░░░░░░░   42.86 % 
+C++        5 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Bash       4 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+C          3 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 ```
 <!--END_SECTION:waka-->
 
