@@ -111,13 +111,6 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <h3 align="left">Weekly Coding Stats:</h3>
 
 <!--START_SECTION:waka-->
-```text
-Other    16 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.98 % 
-Bash     5 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-C++      5 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-C        3 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Python   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-```
 <!--END_SECTION:waka-->
 
 
