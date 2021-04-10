@@ -108,7 +108,7 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
 </p>
 
-<h3 align="left">Weekly Coding Stats:</h3>
+<!--h3 align="left">Weekly Coding Stats:</h3-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
