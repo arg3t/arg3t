@@ -14,7 +14,7 @@
 
 - `ps -a`   Learning C++ and Spring Boot (Sometimes I [share](https://tmate.io/t/Fr1nge/sharedProgramming) my tmux sessions.)
 
-- `uname -n`   I try to blog on [hashnode](https://blog.yigitcolakoglu.com) regularly
+- `uname -n`   I try to blog on [fr1nge.xyz](https://fr1nge.xyz) regularly
 
 - `neofetch`   Arch Linux, Vim and Suckless Utilities
 
