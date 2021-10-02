@@ -6,13 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- `whoami`  A senior high school student in Turkey.
+- `whoami`  A freshman CSE student in TU Delft.
 
-- `uptime`  17 years
+- `uptime`  18 years
 
-- `pwd` Ankara, Turkey 
+- `pwd` Delft, Netherlands
 
-- `ps -a`   Learning C++ and Spring Boot (Sometimes I [share](https://tmate.io/t/Fr1nge/sharedProgramming) my tmux sessions.)
+- `ps -a`   Learning reverse engineering (Sometimes I [share](https://tmate.io/t/Fr1nge/sharedProgramming) my tmux sessions.)
 
 - `uname -n`   I try to blog on [fr1nge.xyz](https://fr1nge.xyz) regularly
 
