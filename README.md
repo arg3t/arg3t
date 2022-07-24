@@ -14,13 +14,13 @@
 
 - `ps -a`   Learning Reverse Engineering and doing pwn.college <!-- (Sometimes I [share](https://tmate.io/t/Fr1nge/sharedProgramming) my tmux sessions.) -->
 
-- `uname -n`   I try to blog on [fr1nge.xyz](https://fr1nge.xyz) regularly
+- `uname -n`   I try to blog on [yigit.run](https://yigit.run) regularly. Also, I keep a [personal wiki/digital garden of new stuff I learn](https://wiki.yigit.run)
 
 - `neofetch`   Arch Linux, Vim and Suckless Utilities
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-	<a href="https://twitter.com/theFr1nge" target="blank">
+	<a href="https://twitter.com/yigitclkl" target="blank">
 		<img align="center" src="imgs/contact/twitter.svg" alt="twitter" height="40" width="40" />
 	</a>
 	<a href="https://www.instagram.com/yigit_colakoglu/" target="blank">
