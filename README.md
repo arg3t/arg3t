@@ -6,9 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- `whoami`  A freshman CSE student in TU Delft.
+- `whoami`  A second-year CSE student in TU Delft.
 
-- `uptime`  18 years
+- `uptime`  19 years
 
 - `pwd` Delft, Netherlands
 
