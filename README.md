@@ -18,26 +18,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-	<a href="https://twitter.com/yigitclkl" target="blank">
+	<a href="https://twitter.com/_ygt_" target="blank">
 		<img align="center" src="imgs/contact/twitter.svg" alt="twitter" height="40" width="40" />
-	</a>
-	<a href="https://www.instagram.com/yigit_colakoglu/" target="blank">
-		<img align="center" src="imgs/contact/instagram.svg" alt="instagram" height="40" width="40" />
-	</a>
-	<a href="https://t.me/thefr1nge" target="blank">
-		<img align="center" src="imgs/contact/telegram.svg" alt="telegram" height="40" width="40" />
-	</a>
-	<a href="https://discordapp.com/users/440823026523832322" target="blank">
-		<img align="center" src="imgs/contact/discord.svg" alt="discord" height="40" width="40" />
 	</a>
 	<a href="mailto:yigitcolakoglu@hotmail.com" target="blank">
 		<img align="center" src="imgs/contact/email.svg" alt="email" height="40" width="40" />
 	</a>
 	<a href="https://www.linkedin.com/in/yigitcolakoglu/" target="blank">
 		<img align="center" src="imgs/contact/linkedin.svg" alt="linkedin" height="40" width="40" />
-	</a>
-	<a href="https://git.yigitcolakoglu.com/yigitcolakoglu/" target="blank">
-		<img align="center" src="imgs/gitea.png" alt="gitea" height="40" width="40" />
 	</a>
 </p>
 <p align="center">
