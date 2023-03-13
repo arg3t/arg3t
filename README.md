@@ -75,7 +75,7 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 --->
 
 <h3 align="left">I am currently reading:</h3>
-<a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
+<a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book?id=56868698" alt="GoodReads reading" width="350" /></a>
 
 <h3 align="left">My GitHub Stats:</h3>
 
