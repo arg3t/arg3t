@@ -68,8 +68,8 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <h3 align="left">My GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theFr1nge&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="theFr1nge"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=theFr1nge&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg3t&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="arg3t"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arg3t&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
 </p>
 
 <!--h3 align="left">Weekly Coding Stats:</h3-->
