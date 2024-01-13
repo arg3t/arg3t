@@ -34,27 +34,17 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <h3 align="left">Technologies I know:</h3>
 <p align="center">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="imgs/spring.svg" alt="devicon" height="30" width="30" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Suckless_logo.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/800px-LaTeX_logo.svg.png" alt="devicon" height="30" width="60" />
 </p>
 
 <!---
@@ -68,8 +58,7 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <h3 align="left">My GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg3t&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8" alt="arg3t"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arg3t&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arg3t&layout=compact&theme=tokyonight&hide=scss,html,css&hide_title=true&exclude_repo=MyCity,FoodCloud,yigitcolakoglu.com&langs_count=8" alt="arg3t"/>
 </p>
 
 <!--h3 align="left">Weekly Coding Stats:</h3-->
