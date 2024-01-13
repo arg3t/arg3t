@@ -44,7 +44,6 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="imgs/spring.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="devicon" height="30" width="30" />
 </p>
 
 <!---
