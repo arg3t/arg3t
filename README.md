@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
+<h1 align="center">Hi 👋, I'm Yigit</h1>
 
-<h3 align="center">I work with computers and sometimes break them.</h3>
+<h3 align="center">I work with computers and sometimes(often?) break them.</h3>
 
 <p align="center"><img src="imgs/hello_there.gif"></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yigitcolakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="yigitcolakoglu" /> </p>
 
-- `whoami`  A second-year CSE student in TU Delft.
+- `whoami`  A third-year CSE student in TU Delft.
 
-- `uptime`  19 years
+- `uptime`  20 years
 
 - `pwd` Delft, Netherlands
 
