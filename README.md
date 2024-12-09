@@ -51,8 +51,12 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 <a href="https://open.spotify.com/user/ygtclk1"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>
 --->
 
-<h3 align="left">I am currently reading:</h3>
-<a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu"><img src="https://goodreads-readme.vercel.app/api/book?id=56868698" alt="GoodReads reading" width="350" /></a>
+<h3 align="left">Last books I read:</h3>
+<div align="center">
+    <a href="https://www.goodreads.com/user/show/56868698-yi-it-olako-lu">
+        <img src="https://goodreads-readme.vercel.app/api/book?id=56868698" alt="GoodReads reading"/>
+    </a>
+</div>
 
 <h3 align="left">My GitHub Stats:</h3>
 
@@ -64,5 +68,3 @@ If you prefer encrypted e-mails, I have a <a href="https://keys.openpgp.org/sear
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
