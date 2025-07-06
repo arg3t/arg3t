@@ -8,13 +8,11 @@
 
 - `whoami`  A third-year CSE student in TU Delft.
 
-- `uptime`  20 years
-
 - `pwd` Delft, Netherlands
 
-- `ps -a`  Trying to finish my bachelors
+- `ps -a`  A fuckton
 
-- `uname -n`   I try to blog on [yigit.run](https://yigit.run), although very rarely. Also, I keep a [personal wiki/digital garden of new stuff I learn](https://wiki.yigit.run)
+- `uname -n`   I try to blog on [yigit.run](https://yigit.run), although very rarely
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
